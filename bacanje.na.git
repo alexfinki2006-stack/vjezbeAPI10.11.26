@@ -1,0 +1,8 @@
+1. git init
+2. git config user.name "aluszcz"
+3. git config user.email "alexfinki2006@gmail.com"
+4. git branch -M main
+5. git add . 
+6. git commit -m "Neka smislena poruka sto se promijenilo"
+7. git remote add origin https://github.com/alexfinki2006-stack/vjezbeAPI10.11.26.git
+8. git push -u origin main
