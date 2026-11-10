@@ -6,3 +6,8 @@
 6. git commit -m "Neka smislena poruka sto se promijenilo"
 7. git remote add origin https://github.com/alexfinki2006-stack/vjezbeAPI10.11.26.git
 8. git push -u origin main
+
+za dodavanje novih promjena:
+1. git add.
+2.git commit -m "Neka smislena poruka sto se promijenilo"
+3. git push
