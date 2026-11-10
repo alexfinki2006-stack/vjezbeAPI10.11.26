@@ -1,0 +1,10 @@
+# cd - change directory
+# cd.. - idi razinu iznad
+# ls - least: sve direktoriji se prikazaju
+# mkdir - make directory
+# rmdir - remove directory
+# == - usporedba vrijednosti npr. "11" == 11 je true
+# i++ - podizi broj za 1
+# i++2 - podizi broj za 2
+# i++4 - podizi broj za 4
+# i-- - smanji broj za 1
